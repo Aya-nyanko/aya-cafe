@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+
+.pnpm-store/
+.env
+.env.*
+!.env.example
+*.log
+*.pem
+*.key
+# Local verification reports and screenshots
+docs/
