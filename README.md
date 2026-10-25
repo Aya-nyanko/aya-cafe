@@ -2,6 +2,10 @@
 
 架空のテイクアウトカフェのポートフォリオサイト。Astro + CSS + JavaScriptで制作。GitHub Pages向けの静的サイトです。
 
+公開URL
+
+https://github.com/aya-nyanko/aya-cafe?utm_source=chatgpt.com#:~:text=https%3A//aya%2Dnyanko.github.io/aya%2Dcafe/
+
 ## 起動
 
 Node.jsとCorepackがある環境で、このフォルダから実行します。
